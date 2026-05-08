@@ -12,6 +12,7 @@ run build_vs2022.bat
 build_vs2022.bat
 ```
 Output folders in same directory:
+```
 output\
   \Shared-CRT_Shared
     \x64
@@ -24,3 +25,4 @@ output\
       ...
     \x86
       ...
+```
