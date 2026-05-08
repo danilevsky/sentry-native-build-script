@@ -43,6 +43,11 @@
 build/
 Build/
 build-*/
+sentry-native/
+sentry-*/
+output/
+Output/
+output-*/
 
 # CMake generated files
 CMakeFiles/
