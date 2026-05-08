@@ -5,7 +5,7 @@ scripts for build sentry-native client
 
 clone project https://github.com/getsentry/sentry-native
 ```bash
-git clone git@github.com:getsentry/sentry-native.git
+git clone --recurse-submodules git@github.com:getsentry/sentry-native.git
 ```
 run build_vs2022.bat
 ```bash
